@@ -33,4 +33,5 @@ My goal is to bridge **traditional QA excellence** with **AI reliability and tru
 - QA Lead / Quality Consultant  
 - Projects with or without AI components  
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ilidiovatuva) or explore my repositories below.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ilidiovatuva), read my articles on [Medium](https://medium.com/@ilidiovatuva), or explore my repositories below.
+
