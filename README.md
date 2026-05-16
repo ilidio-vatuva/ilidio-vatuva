@@ -1,37 +1,16 @@
-## Hi, I’m Ilídio 👋  
+Quality Engineer / QA Lead with 7+ years building test automation, CI/CD pipelines, and quality systems for distributed platforms at scale (Adidas, telecom).
 
-I’m a **Quality Engineer / QA Lead** with strong hands-on experience in **test automation, CI/CD, and quality strategy** for complex, distributed systems.
+I don't just find bugs — I prevent them. Obsessed with the gap between "tests pass" and "nothing breaks in production."
 
-Over the last years, I’ve worked in international environments helping teams **ship faster with confidence**, by embedding quality into the development lifecycle — from API and integration testing to automation frameworks and continuous testing pipelines.
+Currently exploring how AI augments the QA process itself — smarter test generation, faster root cause analysis, and coverage that adapts to risk. The goal: the same quality bar, with less manual toil.
 
-### What I do today
-- Design and implement **test strategies** for API, UI, and integration layers  
-- Build and maintain **automation frameworks** (Java, C#, RestAssured, Playwright)  
-- Integrate quality gates into **CI/CD pipelines** (Jenkins, Azure DevOps)  
-- Lead and mentor QA engineers, improving **process maturity and quality culture**  
-
-### What I’m exploring now
-I’m currently deepening my skills in **AI and Machine Learning on Google Cloud (Vertex AI)** as part of my preparation for the **Google AI Engineer certification**.
-
-My focus is not only on training models, but on **how to test, validate, and monitor them** — applying **Quality Engineering principles to AI systems**, such as:
-- Data validation and quality checks  
-- Model evaluation and regression testing  
-- Reliability and production-readiness of ML pipelines  
-
-### Why this matters
-Modern software increasingly includes **AI-driven components**, and I believe quality practices must evolve with it.  
-My goal is to bridge **traditional QA excellence** with **AI reliability and trust**.
-
-### Currently working on
-- 📦 **Vertex AI ML Quality Pipeline** – a hands-on project focused on validating and monitoring ML models in production-like environments  
-- 🧪 API-first test automation and CI quality gates  
+## My work spans
+- Test automation at scale (Selenium, RestAssured, Playwright)
+- CI/CD architecture (Jenkins, Azure DevOps)
+- Performance & load testing under real-world constraints
+- Mentoring engineers on test-first thinking
 
 ---
 
-📬 **Open to remote contracts**  
-- Quality Engineer (hands-on)  
-- QA Lead / Quality Consultant  
-- Projects with or without AI components  
-
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ilidiovatuva), read my articles on [Medium](https://medium.com/@ilidiovatuva), or explore my repositories below.
-
+🎯 Open to remote contracts • Building in public on this portfolio  
+🔗 [LinkedIn](https://www.linkedin.com/in/ilidiovatuva) • GitHub repos below
