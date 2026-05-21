@@ -13,4 +13,5 @@ Currently exploring how AI augments the QA process itself — smarter test gener
 ---
 
 🎯 Open to remote contracts • Building in public on this portfolio  
+🔗 [Medium](https://medium.com/@ilidiovatuva)
 🔗 [LinkedIn](https://www.linkedin.com/in/ilidiovatuva) • GitHub repos below
